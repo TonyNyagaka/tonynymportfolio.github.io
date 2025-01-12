@@ -1,1 +1,1 @@
-This is my first web portfolio as a computer engineering student.
+This is my first web portfolio as a computer engineering intern.
